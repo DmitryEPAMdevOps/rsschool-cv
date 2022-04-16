@@ -18,6 +18,7 @@ programmer. For this, I am currently taking
 courses at RS School. I want to develop, become
 better and make the world a better place.
 That is why I am here.
+
 ___
 
 ## __Skils__
