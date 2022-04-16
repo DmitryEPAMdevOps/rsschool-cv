@@ -1,1 +1,1 @@
- https://DmitryEPAMdevOps.github.io/rsschool-cv/cv
+https://DmitryEPAMdevOps.github.io/rsschool-cv/cv
