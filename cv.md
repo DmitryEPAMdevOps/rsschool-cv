@@ -43,6 +43,29 @@ function bmi(weight, height) {
 ~~~
 ___
 
+## __Education__
+
+1. 2004-2013
+    - 124 secondary school, Minsk (Belarus).
+2. 2013-2017 
+    - Minsk State Automobile College with a degree in Maintenance of Technological Equipment and Robotics in Automated Production.
+*Qualification*: Electronic Technician.
+3. 2017-2021 
+    - Belarusian National Technical University, Faculty of Instrumentation.
+*Qualification*: Electronics engineer.
+4. 2010-2013 
+    - English language courses.
+5. 2020 
+    - Polish language courses.
+
+___
+
+## __Languages__
+
+- Polish  (B1).
+- English  (A2), 
+- Russian  (C2), 
+- Belarusian (C1), 
 
 
 
